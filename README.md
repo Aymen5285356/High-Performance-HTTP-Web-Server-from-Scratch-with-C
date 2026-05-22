@@ -1,3 +1,7 @@
+# High-Performance-HTTP-Web-Server-from-Scratch-with-C
+
+---
+
 <div align="center">
 
 ```
@@ -404,7 +408,7 @@ After building C-Pulse, concepts like **middleware**, **request lifecycle**, **c
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **Aymen El yaakoubi**
 
 ---
 
